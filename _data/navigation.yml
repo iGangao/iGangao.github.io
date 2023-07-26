@@ -17,8 +17,8 @@ main:
         
   
     
-  - title: "NLP"
-    url: /nlp/
+  #- title: "CV"
+  #  url: /cv/
     
   - title: "Guide"
     url: /markdown/
